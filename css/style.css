@@ -1,0 +1,22 @@
+.panda-bg-info {
+    background-color: #FCEAE8;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.panda-buy-btn {
+    background-color: #FF2178;
+    color: #FFFFFF;
+}
+
+.panda-buy-btn:hover {
+    background-color: #ff217ae7;
+    color: #FFFFFF;
+    border-color: #ff217ae7;
+}
+
+.hero-top-margin {
+    margin-top: 100px;
+}
